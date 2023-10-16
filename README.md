@@ -1,5 +1,7 @@
-# Gabriel Gorotiza - Desarrollador de Software
-
+<div align="center">
+  <h1 align="center"> Gabriel Gorotiza - Desarrollador de Software</h1>
+  <img src="https://cdn.discordapp.com/attachments/995501479190343731/1163287489239335032/header.jpg?ex=653f06e6&is=652c91e6&hm=444d9a5f64b0bcaa755c91c9c20bed0a30009cb66d4c7edc0f5e6301e908a231&">
+</div>
 ## Acerca de Mí
 
 ¡Hola! Soy Gabriel Gorotiza, un apasionado desarrollador de software con experiencia en Java, C#, TS, JS, Python. Mi objetivo es crear soluciones de software efectivas y eficientes para desafíos del mundo real. Siempre estoy interesado en aprender y crecer en mi campo.
