@@ -30,5 +30,5 @@
 
 ## Estudios
 
-Estoy estudiando Ingeniería en Tecnologías de la Información y actualmente he completado 5 de 10 semestres. Aquí tienes un indicador visual de mi progreso: ![Progreso](https://progress-bar.dev/50/)
+Estoy estudiando Ingeniería en Tecnologías de la Información y actualmente he completado 6 de 10 semestres.
 
