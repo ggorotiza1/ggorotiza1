@@ -60,10 +60,15 @@
 
 ## Estudios
 
-Actualmente estoy estudiando Ingeniería en Tecnologías de la Información y he completado 6 de 10 semestres.
+### Ingeniería en Tecnologías de la Información
 
+**Universidad Técnica de Machala**  
+*Actualmente he completado 6 de 10 semestres.*
+
+#### Cursos Relevantes:
+- **Programación Orientada a Objetos:** Desarrollo en Java y C#.
+- **Desarrollo Web:** Tecnologías como HTML, CSS, JavaScript, Angular y React.
+- **Bases de Datos:** Diseño y administración en MySQL, SQL Server, PostgreSQL y BigQuery.
+- **Inteligencia Artificial y Machine Learning:** Implementación de modelos en Python.
+- **Gestión de Proyectos de Software:** Metodologías ágiles como Scrum y Kanban.
 ---
-
-<div align="center">
-  <img src="https://cdn.discordapp.com/attachments/995501479190343731/1163287489239335032/footer.jpg?ex=6667a866&is=666656e6&hm=e828db2759b20a1c95632ed5516ef48d71ec511059c8aa8e442bee494c57e5df&" alt="Footer">
-</div>
