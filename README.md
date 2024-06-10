@@ -10,6 +10,7 @@
 <p align="center">
   <a href="mailto:tabletgorotiza@gmail.com"><img src="https://img.shields.io/badge/Correo%20Electr%C3%B3nico-tabletgorotiza@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/gabriel-gorotiza-s-2ab47a292"><img src="https://img.shields.io/badge/LinkedIn-Gabriel%20Gorotiza-blue?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://learn.microsoft.com/es-mx/users/ggorotiza1/"><img src="https://img.shields.io/badge/Microsoft%20Learn-Learn%20with%20Gabriel-blue?style=for-the-badge&logo=microsoft&logoColor=white"></a>
 </p>
 
 ## Proyectos Destacados
