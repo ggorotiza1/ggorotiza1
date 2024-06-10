@@ -56,6 +56,7 @@
   <img src="https://img.shields.io/badge/SQL%20Server-%23CC2927.svg?style=for-the-badge&logo=microsoft-sql-server&logoColor=white">
   <img src="https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white">
   <img src="https://img.shields.io/badge/BigQuery-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white">
+  <img src="https://img.shields.io/badge/Oracle%20Database-%23F00000.svg?style=for-the-badge&logo=oracle&logoColor=white">
 </p>
 
 ## Estudios
