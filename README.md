@@ -71,6 +71,5 @@
 - **Programación Orientada a Objetos:** Desarrollo en Java y C#.
 - **Desarrollo Web:** Tecnologías como HTML, CSS, JavaScript, Angular y React.
 - **Bases de Datos:** Diseño y administración en MySQL, SQL Server, PostgreSQL y BigQuery.
-- **Inteligencia Artificial y Machine Learning:** Implementación de modelos en Python.
 - **Gestión de Proyectos de Software:** Metodologías ágiles como Scrum y Kanban.
 ---
