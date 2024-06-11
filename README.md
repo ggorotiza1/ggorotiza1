@@ -38,7 +38,10 @@
 
 ### Lenguajes
 <p align="center">
-  <img src="https://img.shields.io/badge/Java-%23007ACC.svg?style=for-the-badge&logo=java&logoColor=white">
+<div class="badge-container">
+  <img src="https://img.shields.io/badge/Java-%23007ACC.svg?style=for-the-badge&logo=coffeescript" alt="Java Badge">
+  <img class="java-logo" src="https://logos-world.net/wp-content/uploads/2022/07/Java-Logo.png" alt="Java Logo">
+</div>
   <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=white">
   <img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white">
   <img src="https://img.shields.io/badge/Python-%23323330.svg?style=for-the-badge&logo=python&logoColor=white">
