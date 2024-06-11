@@ -47,8 +47,8 @@
 
 ### Frameworks
 <p align="center">
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
-  <img src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
+  <img src="https://img.shields.io/badge/Angular-%23007ACC?style=for-the-badge&logo=angular&logoColor=white">
+  <img src="https://img.shields.io/badge/React-%23323330.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
 </p>
 
 ### Bases de Datos
