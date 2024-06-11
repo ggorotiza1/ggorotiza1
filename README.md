@@ -29,8 +29,8 @@
     <td>Plataforma Angular para encargos de carga pesada. Gestiona logística de transporte, rutas y vehículos con eficiencia y seguridad.</td>
   </tr>
   <tr>
-    <td align="center"><a href="https://github.com/ggorotiza1/GraphMeth"><img src="https://img.shields.io/badge/Ver%20Proyecto-GraphMeth-green?style=for-the-badge&logo=github&logoColor=white"></a></td>
-    <td align="center"><a href="https://github.com/ggorotiza1/ProyectoQuinto"><img src="https://img.shields.io/badge/Ver%20Proyecto-HAJEC%20Transport-green?style=for-the-badge&logo=github&logoColor=white"></a></td>
+    <td align="center"><a href="https://github.com/ggorotiza1/GraphMeth"><img src="https://img.shields.io/badge/Ver%20Proyecto-GraphMeth-blue?style=for-the-badge&logo=github&logoColor=white"></a></td>
+    <td align="center"><a href="https://github.com/ggorotiza1/ProyectoQuinto"><img src="https://img.shields.io/badge/Ver%20Proyecto-HAJEC%20Transport-blue?style=for-the-badge&logo=github&logoColor=white"></a></td>
   </tr>
 </table>
 
