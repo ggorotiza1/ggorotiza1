@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Gabriel Gorotiza - Desarrollador de Software</h1>
-  <img src="https://cdn.discordapp.com/attachments/995501479190343731/1163287489239335032/header.jpg?ex=6667a866&is=666656e6&hm=e828db2759b20a1c95632ed5516ef48d71ec511059c8aa8e442bee494c57e5df&" alt="Header">
+  <img src="https://media.discordapp.net/attachments/1181331400880816189/1252127511748542485/Header_Gabriel.png?ex=6671161e&is=666fc49e&hm=3e940ccb6ece9e1398f5b44b91e29fc45320b9e387c3faa2dd878d3d19317cb0&=&format=webp&quality=lossless" alt="Header">
 </div>
 
 ## Acerca de Mí
