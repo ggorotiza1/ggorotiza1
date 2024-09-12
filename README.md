@@ -65,7 +65,7 @@
 ### Ingeniería en Tecnologías de la Información
 
 **Universidad Técnica de Machala**  
-*Actualmente he completado 6 de 10 semestres.*
+*Actualmente he completado 7 de 10 semestres.*
 
 #### Cursos Relevantes:
 - **Programación Orientada a Objetos:** Desarrollo en Java y C#.
