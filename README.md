@@ -21,7 +21,7 @@
     <td align="center"><strong>HAJEC Transport</strong></td>
   </tr>
   <tr>
-    <td align="center"><img src="https://media.discordapp.net/attachments/1181331400880816189/1302500574952161310/GM.png?ex=672857b0&is=67270630&hm=def659efcf0aba8638b926eada420809b33fa49d40c484f9c9a5ce0be6ebbfcc&=&format=webp&quality=lossless&width=1193&height=671" alt="GraphMeth" width="200"></td>
+    <td align="center"><img src="https://media.discordapp.net/attachments/1181331400880816189/1302501095586664498/GM2.png?ex=6728582c&is=672706ac&hm=910a2ff45cab11c686c10c0cc33c3395866ac47f6a55fdda0b28e6b14e90184a&=&format=webp&quality=lossless&width=1193&height=671" alt="GraphMeth" width="200"></td>
     <td align="center"><img src="enlace-a-imagen-proyecto2.png" alt="HAJEC Transport" width="200"></td>
   </tr>
   <tr>
